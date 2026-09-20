@@ -153,4 +153,3 @@ A cross-platform time-tracking application with a Flutter frontend and Node.js b
 
 📧 **Email:** atishpatil.work@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/iamatishpatil](https://linkedin.com/in/iamatishpatil)  
-🌐 **Portfolio:** [atishpatil.work](https://atishpatil.work)
